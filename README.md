@@ -37,6 +37,8 @@
 - 💼 LinkedIn: [Add your link]
 - 🧑‍💻 GitHub: https://github.com/Ayushshar11
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ---
 
 ⭐ *"Code. Learn. Build. Repeat."*
