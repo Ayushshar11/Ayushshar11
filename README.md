@@ -1,4 +1,7 @@
 # Ayushshar11
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Web+Developer;AI+Enthusiast&center=true&width=500&height=50">
+</p>
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
 <h3 align="center">🚀 Java Developer | Web Developer | AI Enthusiast</h3>
 
@@ -29,9 +32,10 @@
 ---
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ayushshar11&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ayushshar11&show_icons=true&theme=tokyonight)
 
 ---
+![Streak](https://streak-stats.demolab.com/?user=Ayushshar11&theme=tokyonight)
 
 ### 🔗 Connect with Me
 - 💼 LinkedIn: [Add your link]
